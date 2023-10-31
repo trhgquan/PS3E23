@@ -5,8 +5,8 @@
 **Your Goal:** Predict defects in C programs given various attributes about the code.
 
 - Team name: **Jobless after graduated** (Ranked 885/1702 - Top 52%)
-- Public test (best): 0.79104
-- Private test (best): 0.78775
+- Public test (best): 0.78765
+- Private test (best): 0.79139
 
 ## Evaluation
 
